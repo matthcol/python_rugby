@@ -1,0 +1,45 @@
+Rang,Equipe,Pts,J,G,N,P,Bonus,BO,BD,Pts.M,Pts.E,Diff,Journée,Niveau
+1,Stade Toulousain,63,19,13,1,5,9,,,474,309,165,19,TOP 14
+2,Stade Français Paris,55,19,11,1,7,9,,,491,317,174,19,TOP 14
+3,LOU Rugby,53,19,12,0,7,5,,,480,432,48,19,TOP 14
+4,Stade Rochelais,52,19,11,0,8,8,,,481,362,119,19,TOP 14
+5,Aviron Bayonnais,50,19,11,1,7,4,,,456,416,40,19,TOP 14
+6,Union Bordeaux-Bègles,49,19,10,1,8,7,,,427,352,75,19,TOP 14
+7,Racing 92,46,19,10,1,8,4,,,507,521,-14,19,TOP 14
+8,RC Toulon,43,19,10,0,9,3,,,419,394,25,19,TOP 14
+9,ASM Clermont,40,19,8,1,10,6,,,431,472,-41,19,TOP 14
+10,Montpellier Hérault Rugby,39,19,8,0,11,7,,,440,435,5,19,TOP 14
+11,Castres Olympique,32,19,7,1,11,2,,,374,490,-116,19,TOP 14
+12,Section Paloise,32,19,6,1,12,6,,,414,497,-83,19,TOP 14
+13,USA Perpignan,30,19,7,0,12,2,,,329,530,-201,19,TOP 14
+14,CA Brive,26,19,5,0,14,6,,,329,525,-196,19,TOP 14
+1,Oyonnax Rugby,83,22,17,1,4,13,,,680,308,372,23,PRO D2
+2,Stade Montois Rugby,60,22,13,0,9,8,,,522,469,53,23,PRO D2
+3,FC Grenoble Rugby,59,21,13,3,5,4,,,419,397,22,23,PRO D2
+4,SU Agen,58,22,11,1,10,12,,,462,396,66,23,PRO D2
+5,Colomiers Rugby,57,22,13,0,9,5,,,489,474,15,23,PRO D2
+6,Biarritz Olympique PB,55,22,11,2,9,7,,,530,468,62,23,PRO D2
+7,Provence Rugby,52,22,10,3,9,6,,,476,441,35,23,PRO D2
+8,RC Vannes,50,22,10,1,11,8,,,464,471,-7,23,PRO D2
+9,USON Nevers,50,22,10,2,10,6,,,443,437,6,23,PRO D2
+10,AS Béziers Hérault,47,22,9,1,12,9,,,498,497,1,23,PRO D2
+11,Stade Aurillacois,47,21,11,0,10,3,,,402,471,-69,23,PRO D2
+12,Rouen Normandie Rugby,44,22,10,0,12,4,,,411,524,-113,23,PRO D2
+13,US Montalbanaise,37,22,8,1,13,5,,,489,554,-65,23,PRO D2
+14,Soyaux-Angoulême XV,37,22,8,0,14,5,,,416,527,-111,23,PRO D2
+15,US Carcassonne,36,22,7,1,14,6,,,375,486,-111,23,PRO D2
+16,RC Massy Essonne,29,22,6,0,16,5,,,374,530,-156,23,PRO D2
+1,US Dax Rugby,80,19,17,0,2,,7,1,546,307,239,19,NATIONALE
+2,Valence Romans Drome Rugby,65,19,12,1,6,,6,5,455,279,176,19,NATIONALE
+3,SC Albi,62,19,12,2,5,,2,4,447,291,156,19,NATIONALE
+4,Blagnac Sporting Club Rugby,60,19,12,2,5,,2,2,401,357,44,19,NATIONALE
+5,US Bressane,59,19,12,0,7,,4,3,401,346,55,19,NATIONALE
+6,CS Bourgoin Jallieu,55,19,11,1,7,,2,3,436,399,37,19,NATIONALE
+7,Stado Tarbes Pyrenees Rugby,54,19,10,1,8,,2,6,445,388,57,19,NATIONALE
+8,Stade Niçois,48,19,8,2,9,,2,6,370,339,31,19,NATIONALE
+8,RC Narbonne Mediterranee,48,19,9,1,9,,3,3,450,440,10,19,NATIONALE
+10,Stade Olympique Chamberien Rugby Savoie Mont-blanc,43,19,8,0,11,,1,6,390,375,15,19,NATIONALE
+11,Rugby Club de Suresnes - Hauts De Seine,39,19,8,0,11,,1,2,354,472,-118,19,NATIONALE
+12,Rugby Club Hyeres Carqueiranne La Crau,34,19,6,0,13,,1,5,339,430,-91,19,NATIONALE
+13,Rennes Etudiants Club,23,19,3,0,16,,1,6,220,431,-211,19,NATIONALE
+14,Union Cognac / Saint Jean D'angely,9,19,0,0,19,,0,5,288,688,-400,19,NATIONALE
